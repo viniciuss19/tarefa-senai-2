@@ -20,6 +20,9 @@ namespace tarefa_github
             txt[5] = "é a morte que embaralha";
             txt[6] = "Eu realmente não me sinto bem";
             txt[7] = "Mesmo com o que mais preciso do lado";
+            txt[8] = "Me sinto sozinho";
+            txt[9] = "com todo mundo do lado";
+             
 
             for (int i = 0; i < 10; i++)
             {
