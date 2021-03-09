@@ -17,8 +17,7 @@ namespace tarefa_github
             txt[2] = "Procuramos lá fora";
             txt[3] = "o que temos aqui dentro";
             txt[4] = "mas depois do jogo...";
-            txt[5] = "é a morte que embaralha";
-
+            
             for (int i = 0; i < 10; i++)
             {
                 Console.WriteLine(txt[i]);
